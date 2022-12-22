@@ -536,7 +536,7 @@ strong {
     }
 }
 
-@media (max-width: 676px) {
+@media (max-width: 781px) {
     .img-line {
         display: none;
     }
