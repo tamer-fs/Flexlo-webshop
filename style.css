@@ -389,6 +389,7 @@ strong {
     padding: 10px 10px 70px 10px;
     position: relative;
     margin-top: 20px;
+    display: none;
 }
 
 .new-items h2{
@@ -538,6 +539,9 @@ strong {
 @media (max-width: 676px) {
     .img-line {
         display: none;
+    }
+    .new-items {
+        display: block;
     }
 }
 
